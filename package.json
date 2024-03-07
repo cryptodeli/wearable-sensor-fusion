@@ -1,5 +1,5 @@
 {
-    "name": "biometric-authentication",
+    "name": "wearable-sensor-fusion",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/cryptodeli/biometric-authentication.git"
+        "url": "https://github.com/cryptodeli/wearable-sensor-fusion.git"
     },
     "keywords": [
         "age"
@@ -39,10 +39,10 @@
         "colonamatech": "1.0.0",
         "vlsititufall": "1.0.0",
         "circulationcalcys": "1.0.0",
-        "spatial-awareness-kit": "1.0.0"
+        "biometric-authentication": "1.0.0"
     },
     "bugs": {
-        "url": "https://github.com/cryptodeli/biometric-authentication/issues"
+        "url": "https://github.com/cryptodeli/wearable-sensor-fusion/issues"
     },
-    "homepage": "https://github.com/cryptodeli/biometric-authentication#readme"
+    "homepage": "https://github.com/cryptodeli/wearable-sensor-fusion#readme"
 }
